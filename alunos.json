@@ -1,0 +1,57 @@
+
+
+[
+    {
+        "nome" : "Henrique Silva",
+        "obs" : "Estudante terceiro ano de licenciatura, foi aluno no CTeSP TPSI e realizou um curso profissional TPSI na escola secundária Rocha Peixoto.",
+        "numero" : 19612,
+        "foto" : "https://i.pinimg.com/564x/e4/06/5f/e4065f8e59ddd0706dcd1abd38081735.jpg",
+        "curso" : "Engenharia Informática"
+    },
+    {
+        "nome" : "João Sousa",
+        "obs" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "numero" : 21039,
+        "foto" : "https://engenharia360.com/wp-content/uploads/2019/05/esta-pessoa-nao-existe-engenharia360-4.png",
+        "curso" : "Engenharia Informática"
+    },
+    {
+        "nome" : "António Rocha",
+        "obs" : "Faz muito barulho nas aulas de matemática.",
+        "numero" : 19853,
+        "foto" : "https://static6.depositphotos.com/1003580/615/i/600/depositphotos_6151014-stock-photo-african-american-man-portrait.jpg",
+        "curso" : "Engenharia Informática"
+    }, 
+    {
+       "nome" : "Vasco Carvalho",
+        "obs" : "É um rapaz muito calado e timido.",
+        "numero" : 22961,
+        "foto" : "https://amenteemaravilhosa.com.br/wp-content/uploads/2019/03/pessoas-que-irritam.jpg",
+        "curso" : "Engenharia Informática"
+     },
+     {
+        "nome" : "Vera Costa",
+        "obs" : "É a Vera que todos conhecemos.",
+        "numero" : 22962,
+        "foto" : "https://www.dicasdemulher.com.br/wp-content/uploads/2019/08/fotos-tumblr.png",
+        "curso" : "Engenharia Informática"
+        },{ 
+        "nome" : "Ana Silva",
+        "obs" : "Ana é prima da Vera.",
+        "numero" : 21102,
+        "foto" : "https://img.freepik.com/fotos-gratis/uma-bela-mulher-afro-americana-de-cabelo-encaracolado-sugere-clicar-em-pontos-de-link-em-um-espaco-de-copia-em-branco-para-mostrar-suportes-sobre-a-parede-branca-e-usar-um-macacao-laranja-basico-pessoas-e-conceito-de-publicidade_273609-49828.jpg?size=626&ext=jpg",
+        "curso" : "Engenharia Informática"
+        }, {
+        "nome" : "Alexandre Pinto",
+        "obs" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "numero" : 20900,
+        "foto" : "https://img.ibxk.com.br/2019/02/17/17124052466014.jpg",
+        "curso" : "Engenharia Informática"
+        },{
+        "nome" : "Telma Cruz",
+        "obs" : "Não faço ideia quem seja.",
+        "numero" : 23529,
+        "foto" : "https://imagens.brasil.elpais.com/resizer/7VCe6-_4L0eijpMH_82F4gWxu_8=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/BNCOV7OYLBAABD2XQDJOBTYL2Q.jpg",
+        "curso" : "Engenharia Informática"
+    }
+]
